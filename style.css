@@ -8,7 +8,7 @@ body{
     background: silver;
 }
     #container{
-    width: 1300px;
+    width: 100vw;
     height: 120vh;
     background: url(pic2.jpg);
     background-size: cover;
@@ -16,7 +16,7 @@ body{
     
 }
        #header{
-        width: 1300px;
+        width: 100vw;
         height: 90px;
         background: 0; 
     }
@@ -205,7 +205,7 @@ body{
 
     }
     #md{
-        width: 1300px;
+        width: 100vw;
         height: 150px;
         background: 0;
         margin: 20px 0 5px;
@@ -332,12 +332,12 @@ body{
         margin-right: 25px;
     }
     #tear{
-        width: 1300px;
+        width: 100vw;
         height: 1000px;
         background: 0;
     }
     .tears{
-        width: 1300px;
+        width: 100vw;
         height: 400px;
         background: 0;
         margin: 0;
@@ -376,7 +376,7 @@ body{
         position: relative;
      }
    #bear{
-    width: 1300px;
+    width: 100vw;
     height: 700px;
     background: 0;
     display: inline-block;
@@ -392,7 +392,7 @@ body{
        margin: 5px 0 0 35px;
    }
    .bears{
-    width: 1200px;
+    width: 100vw;
     height: 500px;
     background: 0;
     margin: 5px 0 0 30px;
