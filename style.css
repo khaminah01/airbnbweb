@@ -213,7 +213,7 @@ body{
         
     }
     h2{
-        margin: 0 30px;
+        margin: 0 50px;
     }
      .a{
          text-align: center;
@@ -292,7 +292,7 @@ body{
        // width: 1200px;
         height: 300px;
         background: #f4f2ef;
-        margin: 35px;
+        margin: 50px;
         display: inline-block;
 
     }
@@ -345,7 +345,7 @@ body{
     }
     .te{
         float: left;
-        margin: 20px 10px 0 20px;
+        margin: 20px 10px 0 50px;
         border: 1px solid rgba(0, 0, 0, 0.2);
         position: relative;
     }
